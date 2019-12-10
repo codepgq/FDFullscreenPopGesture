@@ -1,0 +1,2 @@
+# FDFullscreenPopGesture
+基于FDFullscreenPopGesture进行了修改，限制了只能响应左→右滑动
